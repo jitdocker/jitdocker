@@ -13,9 +13,10 @@ Features:
 * Support webhook
 * Support redirect registry
 * Support private registry (pay)
-* Support authentication (ssh-key, oauth)
+* Support authentication: ssh-key, oauth
 * Support workflow
 * Support badges
+* Support webhook back (listen other github repo on push)
 
 ## Usage
 
