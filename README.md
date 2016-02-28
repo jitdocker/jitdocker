@@ -14,6 +14,7 @@ Features:
 * Support redirect registry
 * Support private registry (pay)
 * Support authentication (ssh-key, oauth)
+* Support workflow
 
 ## Usage
 
