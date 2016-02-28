@@ -15,6 +15,7 @@ Features:
 * Support private registry (pay)
 * Support authentication (ssh-key, oauth)
 * Support workflow
+* Support badges
 
 ## Usage
 
