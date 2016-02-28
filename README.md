@@ -11,6 +11,9 @@ Features:
 * Support auto-test
 * Support stackfile
 * Support webhook
+* Support redirect registry
+* Support private registry (pay)
+* Support authentication
 
 ## Usage
 
