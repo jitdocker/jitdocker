@@ -13,7 +13,7 @@ Features:
 * Support webhook
 * Support redirect registry
 * Support private registry (pay)
-* Support authentication
+* Support authentication (ssh-key, oauth)
 
 ## Usage
 
